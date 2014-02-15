@@ -10,10 +10,10 @@ import java.sql.SQLException;
  */
 public class Database {
 
-    private String user = "ahmet";
-    private String password = "2621494";
+    private String user = "username";
+    private String password = "password";
     private String host = "localhost";
-    private String database = "ceng351hw1";
+    private String database = "database";
     private int port = 3306;
     private Connection conn;
 
